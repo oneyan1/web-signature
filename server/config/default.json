@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "123465789",
+    "mongoUri": "mongodb+srv://oneyan:123654@cluster0.krruf.mongodb.net/link-mern?retryWrites=true&w=majority"
+}
