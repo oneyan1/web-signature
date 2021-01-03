@@ -1,10 +1,7 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
-@import "~materialize-css/dist/css/materialize.min.css";
+@import '~materialize-css/dist/css/materialize.min.css';
 
-body{
-    background-color: #80deea;
-}
-
-.lato-font{
-    font-family: 'Lato', sans-serif;
+body {
+  background-color: #80deea;
+  font-family: 'Lato', sans-serif;
 }
